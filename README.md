@@ -76,6 +76,7 @@ Use as a **cheat sheet**:
 - **Official Docs**: [docs.python.org](https://docs.python.org/3/)
 - **Books**: "Python Crash Course", "Fluent Python", "Automate the Boring Stuff"
 - **YouTube**: Corey Schafer, Chai aur Code
+- [**The complete guide to Python**](https://www.youtube.com/watch?v=mDKM-JtUhhc): one of the best youtube video on python
 
 ## 🤝 Contributing
 
