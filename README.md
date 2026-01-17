@@ -1,6 +1,6 @@
 # Python Basics Revision Notebook 📚
 ***
-
+👉[Click here to read the notebook](https://github.com/impriyanshusah/Python-Basics-Notebook/blob/main/python-basics.ipynb)
 ## 🎯 Who is this for?
 
 This notebook is designed for:
